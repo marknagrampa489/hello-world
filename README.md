@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-sample repository
+This is a hello-world project.
+
